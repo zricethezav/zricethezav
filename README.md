@@ -5,6 +5,8 @@ I maintain [Gitleaks](https://github.com/zricethezav/gitleaks) and a few other p
 Consider ❤[sponsoring me](https://github.com/sponsors/zricethezav)❤ for 1-1 time, developing custom rules, and faster responsing on issues.
 
 Here's my dog, he's pretty cute. Hope you have a nice day ☮️
+
+
 ![Screen Shot 2021-04-12 at 11 29 05 AM](https://user-images.githubusercontent.com/15034943/114420413-4d4edd80-9b82-11eb-92b4-9d4314b5a783.png)
 
 
