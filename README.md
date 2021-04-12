@@ -7,7 +7,7 @@ Consider ❤[sponsoring me](https://github.com/sponsors/zricethezav)❤ for 1-1 
 Here's my dog, he's pretty cute. Hope you have a nice day ☮️
 
 
-![Screen Shot 2021-04-12 at 11 29 05 AM](https://user-images.githubusercontent.com/15034943/114420413-4d4edd80-9b82-11eb-92b4-9d4314b5a783.png)
+![Screen Shot 2021-04-12 at 12 07 58 PM](https://user-images.githubusercontent.com/15034943/114426174-cac91c80-9b87-11eb-8a40-49fe743d6763.png)
 
 
 <!--
