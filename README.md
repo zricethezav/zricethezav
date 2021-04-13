@@ -2,7 +2,7 @@
 
 I maintain [Gitleaks](https://github.com/zricethezav/gitleaks) and a few other projects you might find useful.
 
-Consider ❤[sponsoring me](https://github.com/sponsors/zricethezav)❤ for 1-1 time, developing custom rules, and faster responsing on issues.
+Consider ❤[sponsoring me](https://github.com/sponsors/zricethezav)❤ for 1-1 time, developing custom rules, and faster responses on issues.
 
 Here's my dog, he's pretty cute. Hope you have a nice day ☮️
 
