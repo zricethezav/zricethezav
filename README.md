@@ -4,12 +4,6 @@ I maintain [Gitleaks](https://github.com/zricethezav/gitleaks) and a few other p
 
 Consider ❤[sponsoring me](https://github.com/sponsors/zricethezav)❤ for 1-1 time, developing custom rules, and faster responses on issues.
 
-Here's my dog, he's pretty cute. Hope you have a nice day ☮️
-
-
-![Screen Shot 2021-04-12 at 12 07 58 PM](https://user-images.githubusercontent.com/15034943/114426174-cac91c80-9b87-11eb-8a40-49fe743d6763.png)
-
-
 <!--
 **zricethezav/zricethezav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
