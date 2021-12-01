@@ -1,20 +1,15 @@
-### What's up 👋
+### Welcome
 
-I maintain [Gitleaks](https://github.com/zricethezav/gitleaks) and a few other projects you might find useful.
+![cover1](https://user-images.githubusercontent.com/15034943/144261457-84e35a54-5292-4d09-98f5-74855bdb9c3a.jpg)
 
-Consider ❤[sponsoring me](https://github.com/sponsors/zricethezav)❤ for 1-1 time, developing custom rules, and faster responses on issues.
+Maintaining [gitleaks](https://github.com/zricethezav/gitleaks) is hard work and a little bit of $$$ will motivate me to continue maintaining and adding features to the project. Won't you be my ~~neighbor~~ [sponsor](https://github.com/sponsors/zricethezav)?
 
-<!--
-**zricethezav/zricethezav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'll also offer some of my time to you if you're a 💸 big baller 💸  and spend at least $500/mo. This time can be used for setting up gitleaks in a CI environment, writing new rules, debugging gitleaks issues, or working on new features. 
 
-Here are some ideas to get you started:
+Or if you're a crypto millionaire why dontcha send this nice midwesterner some btc
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**btc**: _1GcoZMPUb5iJtopGjGAwTnz5TNTQGapsr_
+
+**eth**: _0xB4648aB65A5Ca0D6B4580Bd387894eC643e7Cdcf_
+
+**ada**: _addr1vygd4jwu84z5hm9e9c3ag8734x3ag2l9239cyawm3kjwyccm6elha_ 
